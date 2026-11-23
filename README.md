@@ -23,19 +23,9 @@ Build a data warehouse that stores clean and organized supply chain data for rep
 - **Data Layers**: Use Bronze, Silver and Gold layers to organize the data.
 - **Data Modelling**: Create a data model that makes data easier to understand and analyse.
 - **Documentation**: Explain the data warehouse structure and the work done in each layer.
-2. Supply Chain Analytics (Data Analytics)
 
-####Objective
-
-# Use SQL to analyse supply chain data and find useful business insights.
-
-## Areas of Analysis
-
-- **Orders**: Understand order patterns and order performance.
-- **Shipping**: Analyse shipping methods and delivery performance.
-- **Products**: Identify product performance and demand.
-- **Customers**: Understand customer purchasing patterns.
-- **Supply Chain Performance**: Find problems and areas where the business can improve.
+  ## License
+  This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
   
   ## Tools & Technologies**
 
