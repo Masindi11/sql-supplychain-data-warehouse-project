@@ -27,7 +27,7 @@ Build a data warehouse that stores clean and organized supply chain data for rep
 
 ####Objective
 
-Use SQL to analyse supply chain data and find useful business insights.
+# Use SQL to analyse supply chain data and find useful business insights.
 
 ## Areas of Analysis
 
@@ -37,13 +37,14 @@ Use SQL to analyse supply chain data and find useful business insights.
 - **Customers**: Understand customer purchasing patterns.
 - **Supply Chain Performance**: Find problems and areas where the business can improve.
   
-- **Tools & Technologies**
+  ## Tools & Technologies**
 
-Microsoft SQL Server
-SQL Server Management Studio (SSMS)
-SQL
-GitHub
-🎯 Project Goal
+* Microsoft SQL Server
+* SQL Server Management Studio (SSMS)
+* SQL
+* GitHub
+  
+  ## Project Goal
 
 The goal of this project is to build a supply chain data warehouse so that the data can be  used to  understand business performance, find problems and support better decision-making.
 
